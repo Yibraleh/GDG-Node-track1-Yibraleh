@@ -1,0 +1,15 @@
+[{
+  "studentId": "123",
+  "name": "titi",
+  "department": "ECE",
+  "enrollmentYear": 2025,
+  "details": "This is the student with ID 123 from the ECE department."
+}
+
+{
+  "studentId": "124",
+  "name": "tutu",
+  "department": "SE",
+  "enrollmentYear": 2025,
+  "details": "This is the student with ID 124 from the SE department."
+}]
